@@ -1,0 +1,162 @@
+*{
+
+padding: 0px;
+margin: 0px;
+box-sizing: border-box;
+
+
+}
+
+
+
+
+header{
+
+background-color: brown;
+
+
+
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    background-color:#e30000;
+   font-size: 25px;
+   font-family: oswald;
+   color:white;
+  height: 120px;
+
+
+}
+
+li{
+
+margin: 40px;
+
+
+}
+
+
+h1,h2{
+
+font-family:oswald;
+
+
+}
+p{
+font-family:oswald light;
+font-size: 20px;
+}
+
+
+
+
+hgroup{
+width: 400px;
+padding: 30px;
+justify-content: left;
+
+
+}
+
+figure .imgredonda{
+
+width: 200px;
+height:200px ;
+border-radius: 150px;
+
+}
+
+figure{
+
+
+    padding: 40px;
+}
+
+
+figure, hgroup{
+
+
+    float: left;
+}
+
+section{
+
+margin-left: 390px;
+width: 1120px;
+height: 200px;
+
+}
+
+
+.section2{
+margin: 0px;
+padding: 80px ;
+width: 1500px;
+height: 600px;
+
+}
+
+
+.grande{
+
+font-size: 40px;
+
+
+
+}
+
+#formulario{
+
+width: 150px;
+padding: 30px;
+margin: auto;
+margin-top: 0;
+margin-left: 430px;
+
+
+
+}
+
+.input{
+
+width: 500%;
+padding: 20px;
+margin-bottom: 12px;
+border-radius: 10px;
+font-family: oswald light;
+font-size: 20px;
+border-color:red;
+color:black;
+
+}
+
+
+.submit{
+    
+width: 200px;
+text-align: center;
+margin-left: 130px;
+padding: 20px;
+background-color:red;
+color: white;
+border-radius: 10px;
+font-family: oswald;
+font-size: 20px;
+border-color: red;
+border: none;
+}
+
+footer{
+
+background-color: gray;
+text-align: center;
+color: white;
+font-family: oswald light;
+height: 80px;
+padding: 20px;
+
+}
